@@ -1,0 +1,1 @@
+export {BlogPostTotal} from "./BlogPostTotal"
